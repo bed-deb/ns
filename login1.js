@@ -17,7 +17,7 @@ function sprawdzDane() {
     var haslo = document.getElementById("haslo").value;
 
     var users = {
-        "": "",
+        "Natalia": "Szczepaniak",
     };
 
     // Weryfikacja danych
